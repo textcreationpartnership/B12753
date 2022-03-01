@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for iurors.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12753</idno>
+            <idno type="STC">STC 8406</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[78]</idno>
+            <idno type="EEBO-CITATION">99892315</idno>
+            <idno type="PROQUEST">ocm99892315</idno>
+            <idno type="VID">187174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187174)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for iurors.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Requiring all freeholders to serve; reserving grant of exemptions to the King"--STC.</note>
+                  <note>Dated at end: Hampton Court the fifth day of October, in the fifth yeere of our reigne ... .</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jury --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:187174:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation for Iurors.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S it is a principall part of our Kingly Office, to adminiſter Iuſtice</hi> to our people, by which our Crowne and Scepter is alſo eſtabliſhed and confirmed: So wee conceiue, that we may truely and iuſtly thus farre reape the fruit of a good conſcience, as to be witneſſe to our ſelfe, and like<g ref="char:EOLhyphen"/>wiſe to report our ſelues, not onely to our Priuie Counſell, (which are ac<g ref="char:EOLhyphen"/>quainted with our more ſecret cares and cogitations) and our Iudges and Counſell at Law (with whom wee haue had more frequent confe<g ref="char:EOLhyphen"/>rence, then Princes formerly haue vſed) but generally alſo to all other our louing Subiects, in regard of ſome our Publique actions, Whether in theſe few yeeres of our Reigne (notwithſtanding wee could not bee at our firſt entrance ſo well enformed, as now wee are, in the Lawes and Cuſtomes of this our Realme) wee haue not exerciſed and employed our Princely care, power and meanes, for the furtherance and aduancement of Iuſtice duely and ſpeedily to bee admini<g ref="char:EOLhyphen"/>ſtred to all our louing Subiects. For it appeareth, that wee haue to that end bene at charge to en<g ref="char:EOLhyphen"/>creaſe the number of our Iudges in our principall Benches, haue endeuoured to moderate ſome dif<g ref="char:EOLhyphen"/>ferences and contentions amongſt our Courts in point of Iuriſdiction, to auoyd double vexation of Suits, and haue from time to time, in perſon giuen more ſtrait charge &amp; admonition to our Iudges before their Circuits and viſitations, and receiued againe from them more ſtrait accompts &amp; reports at their returnes, then hath bene heretofore accuſtomed. And as we haue bene thus carefull concer<g ref="char:EOLhyphen"/>ning our Courts, and Iudges of the Law: So may we in no wiſe omit to extend our Princely care to perſons of another condition, on whom (though they be not to be termed Iudges) there lyeth a principall part of Iudicature: which are thoſe, who by the cuſtome of the Realme are called Iu<g ref="char:EOLhyphen"/>rors, which ſerue to try and decide the iſſues &amp; points of fact in all controuerſies and cauſes. A mat<g ref="char:EOLhyphen"/>ter no leſſe important to the ſumme of Iuſtice, then the true and iudicious expoſition of the Lawes themſelues. For euen that Iudgement which was giuen by a King in Perſon, and is ſo much com<g ref="char:EOLhyphen"/>mended in the Scriptures, was not any learned expoſition of the Law, but a wiſe ſifting and exami<g ref="char:EOLhyphen"/>nation of the fact, where teſtimonie was obſcure, and failed. To which ſort of perſons alſo the Law of this our Realme doeth aſcribe ſuch truſt and confidence, as it doeth not ſo abſolutely tye them to the euidences and proofes produced, but that it leaueth both ſupply of Teſtimonie, and the diſcer<g ref="char:EOLhyphen"/>ning and credit of Teſtimonie to the Iuries conſciences and vnderſtanding.</p>
+            <p>But herewithall we conſider with our ſelues, That this proceeding by Iurie (which is one of the ancient Lawes and Cuſtomes of this our Iſland of Great Britaine, and almoſt proper and ſingular vnto it, in regard of other Nations) as it is an excellent inſtitution in it ſelfe, ſo neuertheleſſe it is then laudable and good, when thoſe perſons, which ſerue vpon the ſaid Iuries, are men of ſuch qualitie, credit &amp; vnderſtanding, as are worthy to be truſted with ſo great a charge, as to try mens liues, good names, lands and goods, and whatſoeuer they hold deare in this world. Wherein we cannot but ob<g ref="char:EOLhyphen"/>ſerue, and highly commend the wiſedome of the Lawes of this our Realme (taking them in their owne nature, before abuſes crept in) which haue in this point ſo well prouided. For as in the triall of any Peere of this Realme, the Law doeth not admit any to paſſe vpon him but Peeres: So in the triall of any of the Commons (which the Law beholdeth but as one body) there is no perſon whatſoeuer of that body by rule of Law exempted, in reſpect of his qualitie and degree onely, from the ſeruice vpon Iuries: whereas on the contrary part the Law hath limitted, that none ſerue, ex<g ref="char:EOLhyphen"/>cept he haue a certaine proportion of Freehold. And yet notwithſtanding, Time and abuſe haue ſo embaſed the eſtimation of this ſeruice, and altered the vſe thereof, as Sheriffs, Vnderſheriffes, Bai<g ref="char:EOLhyphen"/>liffes, and other inferiour Miniſters, do not onely ſpare Gentlemen of qualitie, in a kinde of awe, and vnwillingneſſe to offend them, but do likewiſe for lucre, gaine and reward, forbeare to returne many of the ableſt and fitteſt perſons; So that the ſeruice oftentimes reſteth vpon ſuch as are either ſimple and ignorant, and almoſt at a gaze in any cauſe of difficultie, or elſe vpon thoſe that are ſo ac<g ref="char:EOLhyphen"/>cuſtomed and inured to paſſe and ſerue vpon Iuries, as they haue almoſt loſt that tenderneſſe of Conſcience, which in ſuch caſes is to bee wiſhed, and make the ſeruice, as it were an occupation and practiſe.</p>
+            <pb facs="tcp:187174:2"/>
+            <p> Vpon theſe grounds therefore, and vpon aduiſe taken with our priuy Councell, and conference with our Iudges and Councell at Law, We haue reſolued to giue ſome remedy to thoſe abuſes, and to reſtore the forme of tryals in this our Realme of England, to the ancient integrity and credit, as much as in vs lyeth. And therefore we doe hereby publiſh and declare to all our louing Sub<g ref="char:EOLhyphen"/>iects, that they take light from vs of the greatnes of this ſeruice, and that the Gentlemen of beſt qua<g ref="char:EOLhyphen"/>litie doe put away that vaine &amp; vntrue conceit, that they are any wayes diſgraced, or diſeſteemed, if they be called vpon or vſed in this part of Iuſtice, to be tryers of the fact, Knowing that all Iudge<g ref="char:EOLhyphen"/>ment is Gods principally, and by him committed vnto vs within the Precinct of our Kingdomes, as his Miniſter vpon Earth, to whom likewiſe they are ſubordinate. And we doe likewiſe charge and command all our Iudges, Iuſtices, Sheriffes, Vnderſheriffes, Bayliffes and others to whom it may appertaine, To take knowledge that this is our expreſſe Will and pleaſure, That all perſons which haue Freehold, according to the Law, ſhall be returned to ſerue vpon Iuries, as occaſion ſhall require. Foreſeeing alſo that they vſe a reſpect, that the ſame perſons be not too often returned and troubled, but that the ſeruice may reſt more equally and indifferently vpon the whole body of ſufficient Freeholders in euery County, the one to eaſe and relieue the other, and that there be a diſcretion vſed, as well in returning the moſt principall Perſons vpon the greateſt cauſes, as in ſor<g ref="char:EOLhyphen"/>ting men of quality with their equals, as neere as may be.</p>
+            <p>And now that we haue thus declared our earneſt care and zeale for the furtherance of Iuſtice in this kinde, ſeeing it hath beene vſuall for Sheriffes and other Miniſters (to whom it appertaines) to forbeare the returning of diuers perſons, in reſpect that they were ſonnes of Peeres of our Realme, or men of extraordinary place and calling, which we haue no way miſliked, and do well allow: In<g ref="char:EOLhyphen"/>tending likewiſe that ſuch, and ſo conuenient reſpect be vſed particularly to our Iuſtices of peace, in regard of the place they hold, and their continuall imployments, as they may be no oftner vſed in ſeruices of that nature, then ſhalbe neceſſary: And foraſmuch as Wee doe well conſider that it may ſo fall out many times, that diuers perſons beſides thoſe aboue named, and ſuch other as the Lawe for naturall impotencie diſpenſeth withall in an ordinary courſe, may likewiſe be found meete to bee forborne in theſe ſeruices: We doe hereby declare, that We are alſo reſolued by vertue of our Prero<g ref="char:EOLhyphen"/>gatiue (and according to the ancient preſidents of our Progenitors) to graunt ſpeciall exemption by our Letters Patents to ſome ſuch perſons, and vpon ſuch ſpeciall cauſes as We ſhall thinke iuſt and reaſonable, not meaning from hencefoorth to leaue it in the power of any other, but in the ſpeciall ca<g ref="char:EOLhyphen"/>ſes aforeſayd, to doe that which is onely proper to our ſelfe. In which courſe (as in all the reſt of our proceedings) although it appeareth vnto vs by a Certificate lately made from the Sheriffes, of the ſtate of the Freeholders in this Kingdome, that the multitude of them is great, &amp; are otherwiſe as certainly enformed, that the one halfe is not certified: and although We haue bene and are daily im<g ref="char:EOLhyphen"/>portuned for ſome particular exemptions by diuers perſons, as well Knights and Gentlemen, as o<g ref="char:EOLhyphen"/>ther Freeholders of good abilitie: Neuertheleſſe, becauſe it may appeare that Wee doe and euer will preferre the precious care of Iuſtice before all other ſecond conſiderations, Wee reſolue there ſhall bee ſo good a moderation in the number, as well as in the choyce of the perſons, as no preiudice ſhall ariſe therby in the ordinary courſe of Iuſtice, Although our meaning be, that all ſuch Grants ſo to bee made by Vs, ſhall extend aſwell to all cauſes concerning our Selfe, our Heires and Succeſ<g ref="char:EOLhyphen"/>ſours, as our ſubiects. All which We haue thought fit to notifie by this our Proclamation.</p>
+            <closer>
+               <dateline>Giuen at our Honour of Hampton Court the fifth day of October, in the fifth yeere of our Reigne of Great Britaine, France and Ireland.</dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO DOM. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
